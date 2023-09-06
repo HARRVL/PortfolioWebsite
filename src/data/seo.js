@@ -16,14 +16,14 @@ const SEO = [
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Some articles I've written about topics regarding CS which I think are pretty cool.",
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
+			"So these are the projects I have worked on during my Computer Science journey. These are simply ideas I've came up with and had the initiative to build them into tools I can use. I feel like the ones you can see here are pretty cool so feel free to click on them.",
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 

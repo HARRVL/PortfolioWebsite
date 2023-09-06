@@ -44,16 +44,9 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+						So these are the projects I have worked on during my Computer Science journey. 
+						These are simply ideas I've came up with and had the initiative to build them into tools I can use. 
+						I feel like the ones you can see here are pretty cool so feel free to click on them.
 						</div>
 
 						<div className="projects-list">

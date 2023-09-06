@@ -1,84 +1,61 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "My Portfolio",
+		name: "Héctor Reyes",
+		email: "hector.reyes@marquette.edu",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/HARRVL",
+		linkedin: "https://www.linkedin.com/in/h%C3%A9ctorreyesram%C3%ADrez/",
+		instagram: "https://www.instagram.com/hectorreyesramirezz/",
+		stackoverflow: "https://stackoverflow.com/users/22276696/hectorreyes",
+		facebook: "https://www.facebook.com/Hectorreyespr/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Computer Science Student / Amateur Astronaut",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"So, I cloned and customized this React app to showcase my coding projects; go check 'em out. I'm not very experienced with programming yet, but this is my shot at putting a little dent in the universe. I enjoy solving complex problems and learning new skills. I'm passionate about innovating, creating solutions, and automating tasks for users and myself. My goal is to one day create my own software company that provides users with innovations that will change their lives. Why the boat picture? I really want to have my own boat one day, and also, it looks sick.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Héctor Reyes. I live in Puerto Rico, where I design the future sitting at the beach.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"hello",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Cool Articles on Tech",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Some articles I've written about topics regarding CS which I think are pretty cool.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Quotify",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"An automated Python-powered tool for personalized and professional-grade PDF invoice generation tailored for Kings Solar.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/HARRVL/Quotify",
 		},
 
 		{
-			title: "Project 3",
+			title: "Kings Calculator",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A web interface translating user's monthly kWh inputs into optimal solar system configurations using Chart.js visualizations.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/HARRVL/KingsCalculator",
 		},
+    ],
 
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-	],
 };
+
+
 
 export default INFO;

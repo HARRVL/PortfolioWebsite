@@ -57,6 +57,7 @@ const About = () => {
 											src="about.jpg"
 											alt="about"
 											className="about-image"
+											style={{ transform: "rotate(-3deg)"}}
 										/>
 									</div>
 								</div>
